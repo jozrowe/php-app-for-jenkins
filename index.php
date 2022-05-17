@@ -23,7 +23,7 @@ else
 </head>
 <body>
     <section class="congratulations">
-        <h1>Woooohoooo!</h1>
+        <h1><font color=red>Welcome to Release 2 of <font color=orange> my build!</font></h1>
         <p>My AWS Elastic Beanstalk <em>PHP</em> is working in&nbsp;Cloud</p>
         <p>You are running PHP version <?= phpversion() ?></p>
         <p>AMAZING!</p>
